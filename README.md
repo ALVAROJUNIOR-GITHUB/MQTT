@@ -4,4 +4,6 @@ Com esse projeto foi possível estudar funções sendo executadas em paralelo, t
 
 Testado em RASPBERRY PI em conjunto com ARDUINO (Responsavel pelo envio de dados seriais à Raspberry).
 
-OBSERVAÇÃO: Fazer download pasta "serial" pois a mesma será importada pelo programa ("import serial"). Salvar a mesma junto ao projeto principal.
+OBSERVAÇÃO:
+
+Fazer download pasta "serial" pois a mesma será importada pelo programa ("import serial"). Salvar a mesma junto ao projeto principal.
